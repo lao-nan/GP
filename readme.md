@@ -50,5 +50,8 @@
 3.执行完这个命令之后可以直接‘Git push’ 提交到远程仓库的master分支
 4. u 是 upstream 
 ## 更新代码
-git pull
+## git pull
 把远程代码更新的到本地时，一定要先提交再更新的习惯
+## git branch
+
+
